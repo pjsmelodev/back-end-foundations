@@ -3,3 +3,23 @@ FRAMEWORKS:
 ASP.NET -> C#
 Django -> Python
 
+BACK-END DEV PROJECT STAGES:
+
+Planning
+    Requirements
+    Objectives
+
+SYSTEM ARQUITECTURE DESIGN
+    Define system components
+    Design components (APIs, DBs)
+    Documentation
+
+DEVELOPMENT
+    Coding
+
+TESTING
+    Unit testing -> testar métodos/funções isoladamente
+    Integration tests -> testar se diferentes módulos/componentes funcionam corretamente quanto combinados
+    User accpetance tests -> testes feitos pela cliente para testar a sua satisfação
+
+DEPLOYMENT
