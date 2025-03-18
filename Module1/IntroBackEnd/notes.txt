@@ -1,4 +1,4 @@
-BACK-END <-> FRONT-END
+BACK-END <-> FRONT-END:
 
 MIDDLEWARE - acts as a bridge between different apps, systems, etc...
 
@@ -6,3 +6,25 @@ API - define rules and protocols for accessing data or services between differen
 
 static content serving - delivery of unchanged files, front the server to the front-end -> fast load times
 
+
+BACK-END:
+
+Servers
+Databases
+App programming interfaces
+
+BACK-END CORE PRINCIPLES:
+
+Performance
+    Write efficient code
+    Monitor and manage resources
+
+Scalability
+
+Security
+    Data handling
+    Access control
+
+Reliability
+    Error handling
+    Logging
