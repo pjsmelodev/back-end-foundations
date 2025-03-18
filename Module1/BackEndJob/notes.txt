@@ -23,3 +23,14 @@ TESTING
     User accpetance tests -> testes feitos pela cliente para testar a sua satisfação
 
 DEPLOYMENT
+
+PRACTICE QUIZ:
+
+1. Which of the following lists critical skills/technologies for a back-end engineer?
+    Proficiency in server-side programming languages like Java and Python, understanding of database management systems, and use of control tools like Git
+
+2. Which of the following describes the typical workflow stages of a back-end engineering project?
+    Planning, system arquitecture design, development, testing, deployment and maintenance
+
+3. What is the main focus of back-end engineering compared to front-end engineering?
+    Back-end engineering focuses on server-side development, database management, and system reliability, while front-end engineering deals with user interfaces and client-side interactions
