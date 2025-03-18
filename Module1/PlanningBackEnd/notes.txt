@@ -1,0 +1,20 @@
+PROJECT PLANNING PHASES:
+    Defining project requirements
+        What needs to be built
+        For who
+        Why
+    
+    Setting objectives
+        SMART
+            S - Specific
+            M - Measurable
+            A - Achievable
+            R - Relevant
+            T - Time-bound
+
+    Creating timelines
+    
+    Identifying resources
+        Team
+        Technology
+        Team members
