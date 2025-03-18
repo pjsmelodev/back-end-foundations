@@ -18,3 +18,17 @@ PROJECT PLANNING PHASES:
         Team
         Technology
         Team members
+
+PRACTICE QUIZ:
+
+1. You are tasked with planning a back-end project for an e-commerce website. Which of the following actions would you take first to ensure the project is successful?
+    Define the project requirements, including what needs to be built and who it is for
+
+2. Why is resource management critical in back-end project planning?
+    It ensures all necessary resources are allocated effectively throughout the project
+
+3. Which of the following best describes why documentation is critical in back-end project planning?
+    It ensures all team members can access up-to-date information, improving collaboration and continuity
+
+4. What is a key factor in effectively identifying resources during back-end project planning?
+    Understanding the project's scope and objectives
