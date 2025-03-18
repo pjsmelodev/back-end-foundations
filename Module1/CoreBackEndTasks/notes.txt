@@ -1,0 +1,8 @@
+BACK-END DEVELOPMENT:
+
+    Server environments
+    Business logic
+    Databases
+    APIs (Application Application Interfaces)
+    Testing
+    Debugging
