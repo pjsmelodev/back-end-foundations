@@ -28,3 +28,13 @@ Security
 Reliability
     Error handling
     Logging
+
+PRACTICE QUIZ:
+1. What is back-end development?
+    The practice of the building and managing systems that power apps and websites, such as processing, storage, and application logic
+
+2. Which of the following best explains the purpose of back-end development?
+    To ensure data is processed, stored securely, and that server-side logic is maintained effectively
+
+3. What are the core principles of back-end development?
+    Performance, scalability, security and reliability
