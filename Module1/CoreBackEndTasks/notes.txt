@@ -16,4 +16,22 @@ BACK-END DEVELOPMENT:
             Structured meatings -> planning
                                 -> team communication
                                 -> continuous improvement
+            Sprint planning
+            Daily stand-ups
+            Sprint review
+            Restrospectives
         Artifacts
+            Tangible deliverables used to track progress
+            User stories
+            Backlog
+            Definition of done
+
+PRACTICE QUIZ:
+1. What is an effective way to integrate project planning tools with development workflows?
+    Linking task management tools like Jira, Asana or Trello with version control systems
+
+2. Which of the following is a key benefit of integrating project planning tools with development tools?
+    Better visibility into project progress and bottlenecks
+
+3. Which of the following is a key step in setting up the integration between project planning tools and development workflows?
+    Defining your workflow and identifying which stages will benefit the most from integration
