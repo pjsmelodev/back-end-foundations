@@ -6,3 +6,14 @@ BACK-END DEVELOPMENT:
     APIs (Application Application Interfaces)
     Testing
     Debugging
+
+    AGILE METHODOLOGIES:
+        Roles
+            Product owner
+            SCRUM master
+            Development team
+        Ceremonies
+            Structured meatings -> planning
+                                -> team communication
+                                -> continuous improvement
+        Artifacts
