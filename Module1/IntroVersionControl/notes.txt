@@ -1,0 +1,21 @@
+GIT BASICS:
+    Clone -> copia um repo já existente localmente
+
+    Branch -> cria um novo "ramo" que permite alterar o projeto separadamente da versão original
+
+    Commit -> guarda o estado do projeto e regista-o (hash e log)
+
+    Push -> faz upload dos commits para o repo remoto
+
+    Pull -> atualiza (fetch e merge) o repo local em função do repo remoto
+
+    PRACTICE QUIZ:
+
+    1. Which Git command is used to create a local copy of an existing repository?
+        git clone
+
+    2. What is the purpose of a pull request in GitHub?
+        To merge changes from one branch into another while allowing for code reviews
+
+    3. Which of the following best describes a benefit of using GitHub for team collaboration in back-end development?
+        It allows teams to manage branches and submmit pull requets, ensuring that code changes are integrated smoothly
