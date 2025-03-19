@@ -9,7 +9,7 @@ GIT BASICS:
 
     Pull -> atualiza (fetch e merge) o repo local em função do repo remoto
 
-    PRACTICE QUIZ:
+PRACTICE QUIZ:
 
     1. Which Git command is used to create a local copy of an existing repository?
         git clone
@@ -19,3 +19,35 @@ GIT BASICS:
 
     3. Which of the following best describes a benefit of using GitHub for team collaboration in back-end development?
         It allows teams to manage branches and submmit pull requets, ensuring that code changes are integrated smoothly
+
+GRADED QUIZ:
+
+    1. Why is scalability important in back-end development? 
+        Scalability ensures that the system can handle increased loads as the user base grows
+
+    2. Why is resource management important in back-end project planning?
+        It ensures efficient allocation and utilization of resources to meet project goals
+
+    3. Why is testing and debugging essential in back-end development?
+        To identify and fix errors, ensuring the application's reliability and performance
+
+    4. Why is it important to use development workflows in conjunction with project planning tools?
+        To ensure seamless transitions between planning and coding tasks
+
+    5. How does GitHub facilitate team collaboration in back-end development?
+        By providing features like pull requets, code reviews, and branch management
+
+    6. How does workflow management contribute to project success in back-end development?
+        By improving task coordination and minimizing bottlenecks
+
+    7. How do APIs enhance the functionality of a back-end system?
+        By providing standardized ways for different applications to communicate
+
+    8. Which of the following git commands would you use to update your local branch with changes made in the remote branch?
+        git pull
+
+    9. Why is data encryption important in back-end development?
+        It protects sensitive data from unauthorized access
+
+    10. How does normalization benefit a database in back-end development? 
+        It reduces redundancy and improves data integrity
