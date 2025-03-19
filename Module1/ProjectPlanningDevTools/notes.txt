@@ -1,0 +1,10 @@
+PRACTICE QUIZ:
+
+1. Which of the following best explains the integration of project planning tools with development workflows?
+    It links task management, collaboration, and progress tracking in development environments
+
+2. What is a key advantage of integrating project planning tools with development tools?
+    It enhances productivity by automating manual tasks like status updates
+
+3. What is one way that integrating project planning tools with development environments enhances productivity?
+    It automates task updates and reduces the manual data entry, allowinig developers to focus more on coding
