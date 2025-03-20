@@ -1,0 +1,5 @@
+TOP-DOWN APPROACH:
+1. General examination of the system
+2. Identify a specific area
+3. Explore datails
+
