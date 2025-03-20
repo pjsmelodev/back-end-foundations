@@ -9,3 +9,16 @@ BOTTOM-UP APPROACH:
         Scalable
     Limitations
         Can be unwieldy
+
+PRACTICE QUIZ:
+1. Which of the following describes the initial step in applying the top-down approach to problem-solving in software development? 
+    Create a broad design goal or problem statement
+
+2. What is the primary focus when using the bottom-up approach in software development?
+    Buidling small, manageable components and integrating them into a complete solution
+
+3. Which of the following is a key difference between the top-down and bottom-up approaches?
+    The top-down approach focuses on gathering more information, while the bottom-up approach focuses on immediate solutions
+
+4. In which scenario would it be most appropriate to use the bottom-up approach over the top-down approach?
+    When the problem requires exploration and the details are unclear
