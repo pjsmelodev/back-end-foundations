@@ -1,0 +1,21 @@
+PSEUDOCODE:
+    Detailed and readable description of what an algorithm must do, expressed in a natural language
+
+PRACTICE ASSIGNMENT:
+
+1. What are logical processes in programming?
+    Fundamental components that control the flow and decision-making in code
+
+2. Select 3 of the following types of logic used in programming.
+    Boolean Logic,
+    Conditional Logic,
+    Loop Logic
+
+3. How can developers use pseudocode effectively before writing actual code?
+    To outline a detailed description of what a computer program must do, expressed in a natural language
+
+4. Which tool would best visualize a sequence of steps in a program?
+    Flowchart
+
+5. Which of the following best describes the role of logical processes in programming, and why are they important?
+    Logical processes involve using conditional statements, loops, and decision-making structures to control the flow of a program, ensuring that it behaves correctly under different conditions
