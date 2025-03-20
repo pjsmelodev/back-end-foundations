@@ -6,3 +6,16 @@ DECOMPOSING SOFTWARE:
 
 MODULARIZATION:
     Decomposition approach where you fragment a complex issue into smaller, INDEPENDENT parts that each carry out a specific role
+
+PRACTICE ASSIGNMENT:
+1. What is one primary benefit of decomposing a complex problem when debugging in software development?
+    It allows developers to isolate and fix issues in smaller parts of the code
+
+2. Which technique involves breaking a problem down into smaller, independent parts that perform specific functions?
+    Modularization
+
+3. You need to build a website for an online bookstore. Which of the following steps aligns with a top-down approach to problem decomposition?
+    Start by defining the overall goal, then break it into main sections, such as the homepage, product pages, and checkout process
+
+4. What is the first step in decomposing a complex problem for debugging and implementation?
+    Identify the problem or goal
