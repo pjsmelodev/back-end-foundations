@@ -1,0 +1,48 @@
+PRACTICE QUIZ:
+
+1. What is the primary reason logical processes are essential in programming?
+    To ensure the program performs tasks correctly and efficiently
+
+2. How can deductive reasoning be applied in problem solving?
+    By deriving specific solutions from general rules and principles
+
+3. What is the benefit of decomposing a complex problem into smaller parts?
+    It makes the problem easier to understand and solve incrementally
+
+4. Which statement best describes the top-down approach in problem-solving?
+    Breaking down a system into smaller components, starting from the highest level
+
+5. Which of the following represents a guideline for writing effective pseudocode?
+    Use clear, plain language to describe each logical step
+
+GRADED QUIZ:
+
+1. Why are iterations important in programming?
+    They allow repetetive tasks to be executed until specific condition is met
+
+2. What is a key benefit of using deductive reasoning in program design?
+    It ensures that all components logically connect to achieve the desired outcome
+
+3. How does problem decomposition benefit debugging?
+    It helps isolate and address issues with smaller sections of code
+
+4. When is the bottom-up approach most effective?
+    When large-scale goals must be addressed before smaller details
+
+5. How should pseudocode be structured to align with programming logic?
+    It should resemble actual code with proper indentation and logical flow
+
+6. How does the top-down approach simplify complex software development tasks?
+    By breaking a large problem into smaller, more manageable tasks
+
+7. When should you choose the bottom-up approach over the top-down approach?
+    When components are developed independently and then integrated into a system
+
+8. What is a key characteristic of sequences in programming?
+    They execute they execute the code in the exact order it is written
+
+9. How does problem decomposition contribute to program maintenance?
+    By organizing the code into smaller sections, making updates easier 
+
+10. What is a key guideline for writing pseudocode?
+    Use plain and concise language to describe the logic
