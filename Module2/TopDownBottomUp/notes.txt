@@ -3,3 +3,9 @@ TOP-DOWN APPROACH:
 2. Identify a specific area
 3. Explore datails
 
+BOTTOM-UP APPROACH:
+    Benefits
+        Flexible
+        Scalable
+    Limitations
+        Can be unwieldy
