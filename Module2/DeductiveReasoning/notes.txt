@@ -2,3 +2,18 @@ DEDUCTIVE REASONING PROCESS:
     1 - Identify the premises
     2 - Analyze the premises
     3 - Draw conclusions
+    4 - Test conclusions
+
+PRACTICE QUIZ:
+
+1. What is deductive reasoning in the context of programming?
+    A logical process by which conclusions are drawn from given premises
+
+2. Which is the first step in applying deductive reasoning to solve problems?
+    Identifying the premises
+
+3. When solving a problem with deductive reasoning, what should you focus on first?
+    Outlining the known premises or assumptions of the problem
+
+4. How does deductive reasoning help in debugging a programming error?
+    It helps to systematically identify the root causes by starting from known facts
