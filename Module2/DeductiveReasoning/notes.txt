@@ -1,0 +1,4 @@
+DEDUCTIVE REASONING PROCESS:
+    1 - Identify the premises
+    2 - Analyze the premises
+    3 - Draw conclusions
