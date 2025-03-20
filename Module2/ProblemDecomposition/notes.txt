@@ -4,3 +4,5 @@ DECOMPOSING SOFTWARE:
     3 - Analyze and address
     4 - Integrate the solution
 
+MODULARIZATION:
+    Decomposition approach where you fragment a complex issue into smaller, INDEPENDENT parts that each carry out a specific role
