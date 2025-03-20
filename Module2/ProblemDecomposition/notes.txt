@@ -1,0 +1,6 @@
+DECOMPOSING SOFTWARE:
+    1 - Identify the problem goal
+    2 - Break it down into parts
+    3 - Analyze and address
+    4 - Integrate the solution
+
