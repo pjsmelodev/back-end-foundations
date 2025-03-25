@@ -11,12 +11,33 @@ class Activity1 {
         }
     }
 
+    // Example 2:
+    static void IsAdult(int age) {
+        if (age >= 21) {
+            Console.WriteLine("Adult wristband.");
+        }
+        else {
+            Console.WriteLine("Minor wristband.");
+        }
+    }
+
     static void Main(string[] args) {
-        int age;
+        // Example 1
+        int age1;
 
         Console.Write("Enter age: ");
-        age = Convert.ToInt32(Console.ReadLine());
+        age1 = Convert.ToInt32(Console.ReadLine());
 
-        VotingEligibility(age);
+        VotingEligibility(age1);
+
+        Console.WriteLine("---------------------------");
+
+        // Example 2
+        int age2;
+
+        Console.Write("Enter age: ");
+        age2 = Convert.ToInt32(Console.ReadLine());
+
+        IsAdult(age2);
     }
 }
