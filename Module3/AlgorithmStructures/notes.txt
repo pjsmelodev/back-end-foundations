@@ -1,3 +1,6 @@
 VIDEO QUESTION:
     Which of the following best describes the purpose of conditional statements in computer programming?
         To allow the program to make decisions based on different conditions
+    
+    Which statement accurately describes the difference between an if/else statement and a switch statement in programming?
+        An if/else statement executes a block of code if a condition is true, whereas a switch statement selects one of multiple code paths based on the value of a variable
