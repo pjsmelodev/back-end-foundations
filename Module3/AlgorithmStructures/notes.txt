@@ -4,3 +4,16 @@ VIDEO QUESTION:
     
     Which statement accurately describes the difference between an if/else statement and a switch statement in programming?
         An if/else statement executes a block of code if a condition is true, whereas a switch statement selects one of multiple code paths based on the value of a variable
+
+PRACTICE QUIZ:
+1. Which of the following best describes the role of conditional statements in programming?
+    A statement that allows an algorithm to make decisions and take different actions based on whether a condition is true or false
+
+2. You are developing a program that categorizes event attendees into children, teens, and adults based on their ages. Which algorithm structure would best suit this task?
+    Categorical statement
+
+3. Which of the following best illustrates the use of binary decision structures in programming?
+    A structure that involves deciding between two possible outcomes, such as yes or no
+
+4. You need to create a program that checks each number in a list and outputs whether it is even or odd. Which approach would you use?
+    A loop with a conditional statement
