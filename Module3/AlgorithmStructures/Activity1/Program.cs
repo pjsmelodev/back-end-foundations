@@ -21,6 +21,22 @@ class Activity1 {
         }
     }
 
+    // Example 3:
+    static void GradingSystem(int grade) {
+        if (grade >= 90) {
+            Console.WriteLine("Grade: A");
+        }
+        else if (grade >= 80) {
+            Console.WriteLine("Grade: B");
+        }
+        else if (grade >= 70) {
+            Console.WriteLine("Grade: C");
+        }
+        else {
+            Console.WriteLine("Grade: D");
+        }
+    }
+
     static void Main(string[] args) {
         // Example 1
         int age1;
@@ -39,5 +55,14 @@ class Activity1 {
         age2 = Convert.ToInt32(Console.ReadLine());
 
         IsAdult(age2);
+
+        Console.WriteLine("-------------------------------");
+
+        // Example 3
+        int grade;
+        Console.Write("Enter current grade: ");
+        grade = Convert.ToInt32(Console.ReadLine());
+
+        GradingSystem(grade);
     }
 }
