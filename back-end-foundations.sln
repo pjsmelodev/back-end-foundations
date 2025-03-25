@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module3", "Module3", "{9FBB7D99-74F2-2B2B-EB8E-B3FAB1C16FEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AlgorithmStructures", "AlgorithmStructures", "{DEAD27C1-5562-A292-8329-CBA82CD0017D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgStructs", "Module3\AlgorithmStructures\AlgStructs\AlgStructs.csproj", "{0B45F0BD-0183-4265-712B-B031AF7ADB5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B45F0BD-0183-4265-712B-B031AF7ADB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B45F0BD-0183-4265-712B-B031AF7ADB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B45F0BD-0183-4265-712B-B031AF7ADB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B45F0BD-0183-4265-712B-B031AF7ADB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEAD27C1-5562-A292-8329-CBA82CD0017D} = {9FBB7D99-74F2-2B2B-EB8E-B3FAB1C16FEF}
+		{0B45F0BD-0183-4265-712B-B031AF7ADB5C} = {DEAD27C1-5562-A292-8329-CBA82CD0017D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F8520C0-CFA8-47C9-8998-DBAEEC27A14F}
+	EndGlobalSection
+EndGlobal
