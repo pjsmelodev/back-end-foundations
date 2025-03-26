@@ -4,3 +4,6 @@ In flowcharts, what does a diamond shape typically represent, and how is it used
 
 Which symbol is used to represent the starting point of the flowchart for a simple login process?
     Oval
+
+Which of the following is an example of a common mistake in flowcharts?
+    Missing steps
