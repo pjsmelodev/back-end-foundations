@@ -7,3 +7,14 @@ Which symbol is used to represent the starting point of the flowchart for a simp
 
 Which of the following is an example of a common mistake in flowcharts?
     Missing steps
+
+PRACTICE QUIZ:
+1. Which symbol is used to indicate a decision point in a flowchart?
+    Diamond
+
+2. What is the first step when creating a flowchart to visualize the logic of a conceptual program?
+    Define the process
+
+3. How can flowcharts be effectively used to visualize logical steps in a development workflow? Select all that apply.
+    Flowcharts help to map out decision-making processes and the flow of operations
+    Flowcharts can display the sequence of operations and conditions in an algotithm
