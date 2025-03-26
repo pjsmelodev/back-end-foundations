@@ -14,3 +14,7 @@ Parse -> usado para converter strings noutros tipos
         int.Parse("123");
 
 Try.Parse -> devolve um bool caso consiga, ou nao, fazer a conversão => mais seguro 
+
+VIDEO QUESTION:
+What is the primary purpose of identifying data types in programming?
+    To determine what kind of data a variable can store
