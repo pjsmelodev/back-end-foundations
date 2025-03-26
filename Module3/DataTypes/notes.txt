@@ -52,3 +52,22 @@ ACTIVITY:
 
 6. -9
     Integer
+
+PRACTICE QUIZ:
+1. What is the primary characteristic of the 'integer' data type?
+    It is used to store whole numbers without fractions or decimals
+
+2. Which function is used in C# to determine the data type of a variable?
+    GetType()
+
+3. What type of data does a 'boolean' represent?
+    True or False values
+
+4. Which data type is best for storing decimal values like 3.14?
+    Float or Douoble
+
+5. How is text data typically represented in programming?
+    String
+
+6. Which data type would typically be best to store a whole number like 5?
+    Integer
