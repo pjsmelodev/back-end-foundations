@@ -8,3 +8,9 @@ GetType: recebe uma variável e devolve o seu tipo
 typeof -> não requer instância
 
 object -> podes qualquer tipo (é o termo relativo a tipos mais genérico)
+
+Parse -> usado para converter strings noutros tipos 
+    Exemplo:
+        int.Parse("123");
+
+Try.Parse -> devolve um bool caso consiga, ou nao, fazer a conversão => mais seguro 
