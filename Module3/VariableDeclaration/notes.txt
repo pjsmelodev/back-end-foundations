@@ -4,3 +4,9 @@ What is the primary role of variables in programming?
 
 Which of the following correctly demonstrates the difference in declaring an integer variable in C# and JavaScript?
     C#: int age = 25; JavaScript: var age = 25;
+
+readonly -> assigned at declaration or in a constructor
+
+VIDEO QUESTION:
+How does the readonly keyword differ from the const keyword in C#?
+    readonly variables can be assigned in a constructor, while const variables must be assigned at declaration
