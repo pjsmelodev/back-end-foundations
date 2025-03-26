@@ -64,7 +64,7 @@ PRACTICE QUIZ:
     True or False values
 
 4. Which data type is best for storing decimal values like 3.14?
-    Float or Douoble
+    Float or Double
 
 5. How is text data typically represented in programming?
     String
