@@ -1,3 +1,6 @@
-VIDEO QUESTION:
+VIDEO QUESTIONS:
 In flowcharts, what does a diamond shape typically represent, and how is it used in the flowcharting process?
     A decision point, where a yes/no question or condition is evaluated to determine the next step
+
+Which symbol is used to represent the starting point of the flowchart for a simple login process?
+    Oval
