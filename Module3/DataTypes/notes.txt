@@ -2,3 +2,6 @@ VIDEO QUESTION:
 Which of the following is an example of a boolean value?
     true
 
+TYPES:
+
+GetType: recebe uma variável e devolve o seu tipo
