@@ -13,3 +13,13 @@ How does the readonly keyword differ from the const keyword in C#?
 
 Which keyword is used to declare an immutable variable in C#?
     const
+
+PRACTICE QUIZ:
+1. What is the primary role of variables in programming?
+    Named storage locations in memory used for storing, retrieving, and manipulating data during a program's execution
+
+2. Which of the following correctly demonstrates the declaration of different data types in C#?
+    int age = 25;
+    double price = 19.99;
+    string userName = "John Doe";
+    bool isStudent = true;
