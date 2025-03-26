@@ -1,0 +1,4 @@
+VIDEO QUESTION:
+What is the primary role of variables in programming?
+    Storing, retrieving, and manipulating data during a program's execution
+
