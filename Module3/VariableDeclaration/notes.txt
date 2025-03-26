@@ -1,4 +1,6 @@
-VIDEO QUESTION:
+VIDEO QUESTIONS:
 What is the primary role of variables in programming?
     Storing, retrieving, and manipulating data during a program's execution
 
+Which of the following correctly demonstrates the difference in declaring an integer variable in C# and JavaScript?
+    C#: int age = 25; JavaScript: var age = 25;
