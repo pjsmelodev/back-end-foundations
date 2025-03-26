@@ -21,8 +21,34 @@ What is the primary purpose of identifying data types in programming?
 
 TYPE CONVERSION:
 Implicit conversion
+
 Casting
     Exemplo:
         double piVar = 3.14;
         int piInt = (int)piVar;
         Console.Write(piInt); -> Resultado: 3
+
+Parsing -> como as strings podem conter caracteres numéricos recebe uma string e devolve os valores nos seus outros tipos, se possível
+
+VIDEO QUESTION:
+Why is data type conversion important in programming?
+    It allows data to be used in different operations or functions
+
+ACTIVITY:
+1. "Hello World"
+    String
+
+2. 256
+    Integer
+
+3. 4.567
+    Double
+
+4. false
+    Boolean
+
+5. "true"
+    String
+
+6. -9
+    Integer
