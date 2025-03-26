@@ -5,3 +5,6 @@ Which of the following is an example of a boolean value?
 TYPES:
 
 GetType: recebe uma variável e devolve o seu tipo
+typeof -> não requer instância
+
+object -> podes qualquer tipo (é o termo relativo a tipos mais genérico)
