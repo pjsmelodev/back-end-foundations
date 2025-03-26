@@ -7,6 +7,9 @@ Which of the following correctly demonstrates the difference in declaring an int
 
 readonly -> assigned at declaration or in a constructor
 
-VIDEO QUESTION:
+VIDEO QUESTIONS:
 How does the readonly keyword differ from the const keyword in C#?
     readonly variables can be assigned in a constructor, while const variables must be assigned at declaration
+
+Which keyword is used to declare an immutable variable in C#?
+    const
