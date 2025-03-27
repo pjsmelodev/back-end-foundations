@@ -5,3 +5,44 @@ Which of the following is the first step when designing an algorithm?
 Which of the following best describes the role of pseudocode when developing a C# program?
     Pseudocode is a plain language description of the steps needed to solve a problem, which can later be translated into C# code
 
+PRACTICE QUIZ:
+1. What is the first step in designing a simple algorithm to solve a problem?
+    Understanding the problem and setting a goal
+
+2. How would you translate a designed algorithm into C# code? Choose all that apply.
+    Break down the algorithm into smaller functions and implement them step by step
+    Use loops, conditionals, and functions to reflect the algorithm's logical flow in C#
+
+3. What is the correct way to implement a simple algorithm in C# to add three numbers and display the result?
+    Declare three variables, calculate their sum, and display the result
+
+GRADED QUIZ:
+1. A school groups students into different learning levels based on their scores: beginner (0–50), intermediate (51–80), and advanced (81–100). What kind of logic is used in this algorithm?
+    Categorical logic
+
+2. A customer support flowchart starts with the user submitting a ticket. What symbol should represent this starting point?
+    Oval
+
+3. A program stores a user’s age, which is always a whole number. What is the most appropriate data type?
+    int
+
+4. How would you declare a variable in C# to store the name of a product?
+    string productName;
+
+5. In a flowchart for processing returns, actions such as "Process Refund" and "Restock Item" are included. What symbol represents these actions?
+    Rectangle
+
+6. Which data type should you use to store a true/false value indicating whether a customer has completed registration?
+    bool
+
+7. You are designing a program to calculate the area of a rectangle. Which input variables should be declared?
+    length and width
+
+8. A payroll system calculates overtime pay. What inputs are required for the algorithm?
+    Hours worked and hourly wage
+
+9. You need to declare a variable to store a product name. What is the best way to declare it in C#?
+    string productName = "Laptop";
+
+10. A developer needs an algorithm to display the largest of three numbers entered by the user. Which step is required in the algorithm?
+    Compare the numbers pairwise and assign the lergest to a variable
