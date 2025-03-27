@@ -1,0 +1,3 @@
+VIDEO QUESTION:
+Which of the following options correctly describes the purpose of an if-else statement?
+    It allows the program to perform different actions based on whether a condition is true or false
