@@ -4,3 +4,6 @@ Which of the following is a control flow statement that allows code to be execut
 
 What is the primary purpose of using a while loop in programming?
     To execute a code block continuously until a condition is met
+
+DO-WHILE LOOPS:
+Executa o bloco de código pelo menos uma vez. Depois faz o teste e, em função da avaliação da condição, continuar a executar, até a avaliação for False
