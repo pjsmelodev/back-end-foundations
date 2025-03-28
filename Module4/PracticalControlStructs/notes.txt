@@ -8,6 +8,9 @@ Which of the following best describes the purpose of nested if-else statements i
 PATTERN MATCHING:
 Técnica que permite verificar e extrair dados estruturados com base em padrões predefinidos.
 
-VIDEO QUESTION:
+VIDEO QUESTIONS:
 What is the purpose of the default case in a switch statement?
     To be used when none of the specified cases match the expression
+
+True or false. Control structures are used to determine the flow of code execution based on conditions.
+    True
