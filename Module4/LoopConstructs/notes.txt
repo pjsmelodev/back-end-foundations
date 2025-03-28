@@ -2,3 +2,5 @@ VIDEO QUESTIONS:
 Which of the following is a control flow statement that allows code to be executed repeatedly based on a condition?
     For loop
 
+What is the primary purpose of using a while loop in programming?
+    To execute a code block continuously until a condition is met
