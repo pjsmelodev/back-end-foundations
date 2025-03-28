@@ -1,3 +1,6 @@
-VIDEO QUESTION:
+VIDEO QUESTIONS:
 When combining loops with control structures, which of the following best describes their combined functionality?
     Loops allow you to execute a block of code multiple timesm and control structures (like if-else and switch statements) will enable you to make decisions during each iteration of the loop based on specific conditions
+
+Which loop structure should you use if you know the exact number of iterations required to process each element in an array?
+    For loop
