@@ -1,0 +1,6 @@
+NESTED IF-ELSE STATEMENTS:
+    If-else statements dentro de outros if-else statements
+
+VIDEO QUESTION:
+Which of the following best describes the purpose of nested if-else statements in programming?
+    To handle complex decision-making by checking multiple dependant conditions
