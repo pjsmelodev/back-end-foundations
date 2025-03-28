@@ -4,3 +4,6 @@ Which of the following options correctly describes the purpose of an if-else sta
 
 Which of the following options correctly describes the purpose of a switch statement?
     It allows a program to choose between multiple options based on the value of a variable
+
+Which control structure would be most appropriate for providing different workout plans based on the user’s level (beginner, intermediate, advanced)?
+    Switch statements
