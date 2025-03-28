@@ -12,3 +12,16 @@ Executa o bloco de código pelo menos uma vez. Depois faz o teste e, em função
 VIDEO QUESTION:
 What is the primary difference between a do-while loop and a while loop in programming?
     A do-while loop guarantees the code block will execute at least once before checking the condition, while a while loop checks the condition first and may not execute the code block at allow at all
+
+PRACTICE QUIZ:
+1. What is the primary purpose of a "for” loop in programming?
+    To automate repetitive tasks when the number of iterations is known
+
+2. When would you use a "while loop" in programming?
+    When you need to execute code repeatedly as long as a conditions is true
+
+3. What is a key characteristic of a "do-while loop" that distinguishes it from other loops?
+    It guarantees the code block will execute at least once before checking the condition
+
+4. Why are loops (for, while, do-while) important in programming?
+    They efficiently handle repetitive taks with minimal code
