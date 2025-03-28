@@ -4,3 +4,10 @@ NESTED IF-ELSE STATEMENTS:
 VIDEO QUESTION:
 Which of the following best describes the purpose of nested if-else statements in programming?
     To handle complex decision-making by checking multiple dependant conditions
+
+PATTERN MATCHING:
+Técnica que permite verificar e extrair dados estruturados com base em padrões predefinidos.
+
+VIDEO QUESTION:
+What is the purpose of the default case in a switch statement?
+    To be used when none of the specified cases match the expression
