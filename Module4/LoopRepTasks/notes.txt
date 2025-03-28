@@ -10,3 +10,47 @@ break -> permite sair de um loop ou de um switch
 VIDEO QUESTION:
 What does the term "loop optimization" refer to in programming?
     Techniques to make loops operate faster and use fewer resources
+
+GUIDED LAB:
+
+Step 1
+Int[] numbers = {1,2,3,4,5};
+
+for (int i = 0; i < numbers.Length; i++) {
+    Console.WriteLine(numbers[i]);
+}
+
+Step 2
+int counter = 1;
+
+while (counter <= 10) {
+    Console.WriteLine(counter);
+    counter++;
+}
+
+Step 3
+int[] numbers = {1,2,3,4,5};
+
+for (int i = 0; i < numbers.Length; i++) {
+    if (numbers[i] % 2 == 0) {
+        Console.WriteLine(numbers[i] + " is even.");
+    }
+    else {
+        Console.WriteLine(numbers[i] + " is odd.");
+    }
+}
+
+PRACTICE QUIZ:
+1. Which statement best describes the use of loops with control structures in programming?
+    Loops handle repetition, while control structures make decisions during each loop iteration
+
+2. Which type of loop is best suited for a scenario where the number of iterations is known in advance?
+    The For loop is best suited when the number os iterations is known beforehand
+
+3. Which technique is recommended to optimize the performance of loops in a program?
+    The technique minimizes iterations and voides nested loops when possible
+
+4. Which of the following C# code snippets will iterate the most times?
+    for (int i = 0; i < 10; i++) {
+        Console.WriteLine("Number :" + i);
+    }
