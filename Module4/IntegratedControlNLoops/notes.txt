@@ -1,0 +1,3 @@
+VIDEO QUESTION:
+When integrating if-else statements with loops in a program, which of the following approaches would allow you to check conditions for each item in a list effectively?
+    Use a loop to go through each item in the list and place an if-else statement inside the loop to check a condition for each item
