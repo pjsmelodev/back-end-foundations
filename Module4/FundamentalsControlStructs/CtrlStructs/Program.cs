@@ -14,12 +14,40 @@ class Program {
         }
     }
 
+    static void TravelMode(string mode) {
+        switch (mode)
+        {
+            case "Bus":
+            case "bus":
+                Console.WriteLine("Booking a bus ticket.");
+                break;
+            case "Train":
+            case "train":
+                Console.WriteLine("Booking a train ticket.");
+                break;
+            case "Flight":
+            case "flight":
+                Console.WriteLine("Booking a flight ticket.");
+                break;
+            default:
+                Console.WriteLine("Invalid selection. Please choose Bus, Train, or Flight.");
+                break;
+        }
+    }
+
     static void Main(string[] args) {
         int age;
 
         Console.Write("Enter age: ");
         age = int.Parse(Console.ReadLine());
 
+        string mode;
+
+        Console.Write("Select a travel mode: ");
+        mode = Console.ReadLine();
+
         CheckTricketPrice(age);
+
+        TravelMode(mode);
     }
 }
