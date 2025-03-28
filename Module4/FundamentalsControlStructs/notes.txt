@@ -21,3 +21,13 @@ if (age >= 18) {
 else {
     Console.WriteLine("You are not eligible to vote.");
 }
+
+PRACTICE QUIZ:
+1. What is the primary purpose of using an if-else statement in programming?
+    To choose actions based on a condition
+
+2. Which scenario is most suitable for using a switch statement instead of an if-else statement?
+    When choosing actions based on multiple values
+
+3. You are developing a program that assigns grades based on a student's score. Which control structure is more efficient for handling multiple grade ranges (A, B, C, D, F)?
+    Use a switch statement to handle grade ranges
