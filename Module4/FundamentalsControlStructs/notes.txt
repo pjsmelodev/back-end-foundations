@@ -7,3 +7,17 @@ Which of the following options correctly describes the purpose of a switch state
 
 Which control structure would be most appropriate for providing different workout plans based on the user’s level (beginner, intermediate, advanced)?
     Switch statements
+
+GUIDED LAB:
+int age;
+
+Console.WriteLine("Enter your age: ");
+
+age = int.Parse(Console.ReadLine());
+
+if (age >= 18) {
+    Console.WriteLine("You are aligible to vote.");
+}
+else {
+    Console.WriteLine("You are not eligible to vote.");
+}
