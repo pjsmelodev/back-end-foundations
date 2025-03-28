@@ -1,3 +1,6 @@
-VIDEO QUESTION:
+VIDEO QUESTIONS:
 When integrating if-else statements with loops in a program, which of the following approaches would allow you to check conditions for each item in a list effectively?
     Use a loop to go through each item in the list and place an if-else statement inside the loop to check a condition for each item
+
+How does combining a switch statement with a loop help manage complex conditions?
+    It enables you to efficiently evaluate different values of a variable and perform specific actions based on those values, iterating through a collection of items
