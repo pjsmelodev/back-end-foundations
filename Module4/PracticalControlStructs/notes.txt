@@ -14,3 +14,37 @@ What is the purpose of the default case in a switch statement?
 
 True or false. Control structures are used to determine the flow of code execution based on conditions.
     True
+
+PRACTICE QUIZ:
+1. Which of the following C# code snippets correctly implements an advanced if-else statement?
+    int number = 10;
+
+    if (number > 0 && number < 20) {
+        Console.WriteLine("Number is between 0 and 20.");
+    }
+    else if (number == 20) {
+        Console.WriteLine("Number is exactly 20.");
+    }
+    else {
+        Console.WriteLine("Number is less than 0 or greater than 20.");
+    }
+
+2. Which of the following C# code snippets correctly implements a complex switch case?
+    string day = "Tuesday";
+
+    switch (day) {
+        case "Monday":
+        case "Tuesday":
+            Console.WriteLine("Start of the work week.");
+            break;
+        case "Wednesday":
+            Console.WriteLine("Midweek.");
+            break;
+        case "Thurday":
+        case "Friday":
+            Console.WriteLine("End of the work week.");
+            break;
+    }
+
+3. Which control structure is most suitable for determining whether a product needs reordering based on its stock level?
+    An if-else statement to evaluate the stock level against a threshold
