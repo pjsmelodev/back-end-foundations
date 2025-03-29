@@ -29,6 +29,22 @@ private void OnPlayerMove(object sender, EventArgs e) {
     }
 }
 
-VIDEO QUIZ:
+VIDEO QUESTION:
 Why is manipulating data a common use case for methods?  
     It allows for efficient processing and modification of data structures, such as sorting arrays or updating records
+
+PRACTICE QUIZ:
+Which of the following statements best defines a method in C#?
+    A method is a function associated witn an object in OOP
+
+Which of the following correctly declares a static method in C#?
+    public static int AddNumbers(int a, int b) { return a + b; }
+
+You are developing a program to manage an inventory. Which of the following tasks would be best suited for a method?
+    Calculating the total value of all items in stock
+
+This method contains an error: private static AddNumbers(int a, int b) { return a + b; }. Identify and correct the issue.
+    The method is missing a return value before AddNumbers. The corrected version is: private static int AddNumbers(int a, int b) { return a + b; }
+
+Which of the following best describes the distinction between a method and a function?
+    A method operates within the context of a class, while a functions does not
