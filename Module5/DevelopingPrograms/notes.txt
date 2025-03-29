@@ -1,0 +1,2 @@
+SINGLE RESPONSABILITY PRINCIPLE:
+A class, function, or module should hove only one reason to change, which means should only be responsible for one specific funcionality or task
