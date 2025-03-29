@@ -4,3 +4,5 @@ Semelhantes a funções mas estão associados ao conceito de objeto -> OOP
 Funcionam em conjunto com outro código
     Esses conjuntos formam classes
 
+São SEMPRE parte de uma classe e só podem ser invocados enquanto parte da classe
+
