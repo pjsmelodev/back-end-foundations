@@ -1,2 +1,6 @@
 SINGLE RESPONSABILITY PRINCIPLE:
 A class, function, or module should hove only one reason to change, which means should only be responsible for one specific funcionality or task
+
+VIDEO QUESTION:
+In the context of program design, what is the 'Single Responsibility Principle'?
+    A class, function, or module should have only one reason to change
