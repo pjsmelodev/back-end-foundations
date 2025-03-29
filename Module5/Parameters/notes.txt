@@ -1,0 +1,8 @@
+ref -> faz referência ao parâmetro e permite atualizar o seu valor
+    EXEMPLOS:
+        UpdateValue(ref int num) -> permite alterar o valor de num
+
+        void DoubleValue(ref int number) {
+            number = number * 2;
+        }
+        É void porque não vai devolver um int mas sim atualizar o valor do int number
