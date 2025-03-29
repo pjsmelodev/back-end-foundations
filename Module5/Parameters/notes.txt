@@ -16,3 +16,18 @@ What is the role of a parameter in a method?
 
 What is the primary advantage of using parameters in methods when designing a program?
     It allows methods to be reused with different inputs without modifying the method
+
+PRACTICE QUIZ:
+What is the role of parameters in methods? 
+    They act as placeholders for the values that will be passed to the method when it is called
+
+How is data passed into methods using parameters?
+    By listing the parameter types and names in the method definition
+
+How can parameters enhance the functionality of a method?
+Scenario: A developer creates a method called CalculateDiscount that determines the discount amount for a purchase. The method uses the price and discount rate as inputs.
+    They allow the method to accept different inputs without modifying the method
+
+What do parameters allow when passing data into methods?
+Scenario: A method called CalculateSum accepts two numbers as inputs and returns their sum. The numbers passed to the method can vary.
+    They allow different values to be passed into a method during execution
