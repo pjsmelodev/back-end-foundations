@@ -1,0 +1,3 @@
+VIDEO QUESTION:
+When calling a method in a program, which of the following statements is true?
+    The method name must always be followed by parentheses
