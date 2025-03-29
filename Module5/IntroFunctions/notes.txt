@@ -2,3 +2,18 @@ VIDEO QUESTION:
 What benefit does using functions provide to a development team?
     Functions make the code easier to maintain and update
 
+PRACTICE QUIZ:
+1. What is one key advantage of using functions in programming?
+    Functions help developers create reusable and modular code blocks
+
+2. A developer needs to write a function to calculate the square of a number. Which of the following correctly declares this function in pseudocode?
+    function square(number) {return number * number}
+
+3. A function calculateTotal(items) processes a list of prices and returns their total. What happens when you call calculateTotal([10, 20, 30])?
+    The functions processes the list [10,20,30] and returns 60 as the total
+
+4. You need to write a function to calculate the area of a rectangle. Which of the following correctly defines this function?
+    function calculateArea(length, width) {retur length * width}
+
+5. How do parameters enhance the reusability of functions?
+    Parameters allow functions to process different inputs and produce flexible outputs
