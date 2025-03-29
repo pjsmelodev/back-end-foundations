@@ -8,3 +8,5 @@ In the context of program design, what is the 'Single Responsibility Principle'?
 How is a method different from a function in the context of C#?
     A method is a function that is part of a class
 
+What is the primary purpose of planning the program flow before starting implementation?
+    To determinr the sequence of function calls, data flow, and where loops and conditionals are necessary
