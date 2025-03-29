@@ -6,3 +6,7 @@ ref -> faz referência ao parâmetro e permite atualizar o seu valor
             number = number * 2;
         }
         É void porque não vai devolver um int mas sim atualizar o valor do int number
+
+VIDEO QUESTION:
+What is the main advantage of using reference parameters in methods?
+    They allow the method to modify the original data
