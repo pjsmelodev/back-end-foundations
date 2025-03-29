@@ -13,3 +13,6 @@ What is the main advantage of using reference parameters in methods?
 
 What is the role of a parameter in a method?
     It is a variable listed in the method's definition that acts as a placeholder for the value to be passed during method execution
+
+What is the primary advantage of using parameters in methods when designing a program?
+    It allows methods to be reused with different inputs without modifying the method
