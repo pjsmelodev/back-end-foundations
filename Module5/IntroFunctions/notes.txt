@@ -1,0 +1,4 @@
+VIDEO QUESTION:
+What benefit does using functions provide to a development team?
+    Functions make the code easier to maintain and update
+
