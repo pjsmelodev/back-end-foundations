@@ -10,3 +10,31 @@ How is a method different from a function in the context of C#?
 
 What is the primary purpose of planning the program flow before starting implementation?
     To determinr the sequence of function calls, data flow, and where loops and conditionals are necessary
+
+GUIDED LAB:
+
+Step 1:
+DisplayWelcomeMessage
+Welcome to the Program!
+
+Step 2:
+string name
++ name +
+Alice
+
+Step 3:
+int
+num1 + num2
+5, 7
+sum
+
+Step 4:
+bool
+num > 0
+5
+result
+
+Step 5:
+int age
+age >= 18
+canDrive
