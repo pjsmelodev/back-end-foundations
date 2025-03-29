@@ -6,3 +6,16 @@ Funcionam em conjunto com outro código
 
 São SEMPRE parte de uma classe e só podem ser invocados enquanto parte da classe
 
+VIDEO QUESTION:
+What is the primary difference between a method and a function in Object-Oriented Programming (OOP)?
+    A method is a function associated in and object in OOP, while a function is a general block of reusable code
+
+ACCESS MODIFIERS:
+Keywords thet define the accessibility of a method
+
+RETURN TYPE:
+The data type of the value returned by the method
+
+VIDEO QUESTION:
+Which of the following correctly represents the structure of a method declaration in C#?
+    accessModifier returnType MethodName(parameters) {}
