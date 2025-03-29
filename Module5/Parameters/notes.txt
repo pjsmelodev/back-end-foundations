@@ -7,7 +7,9 @@ ref -> faz referência ao parâmetro e permite atualizar o seu valor
         }
         É void porque não vai devolver um int mas sim atualizar o valor do int number
 
-VIDEO QUESTION:
+VIDEO QUESTIONS:
 What is the main advantage of using reference parameters in methods?
     They allow the method to modify the original data
 
+What is the role of a parameter in a method?
+    It is a variable listed in the method's definition that acts as a placeholder for the value to be passed during method execution
