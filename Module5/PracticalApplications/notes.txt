@@ -11,3 +11,19 @@ Which of the following is a correct call to the CalculateSum method that takes t
 
 static: Um método static só pode acessar outros membros static da classe.
 Pertence à própria classe e não a uma instância específica dela
+
+PRACTICE QUIZ:
+Which of the following correctly demonstrates how to call a method named CalculateSum that takes two parameters in C#?
+    CalculateSum(5, 10);
+
+What is the correct way to call a method named DisplayWelcomeMessage that takes no parameters in C#?
+    DisplayWelcomeMessage();
+
+A developer wants to use the result of a method named MultiplyNumbers that returns an integer. Which of the following correctly calls this method and stores the result?
+    int result = MultiplyNumbers(3 , 4);
+
+You are building a C# program to validate user input. Which of the following methods correctly returns a true or false value to indicate whether a number is positive?
+    public bool IsPositive(int number) { return number > 0; } 
+
+A program requires a method named CalculateSum that takes two integers and returns their sum. How should this method be called, and its result stored for further use?
+    int sum = CalculateSum(7 , 8);
