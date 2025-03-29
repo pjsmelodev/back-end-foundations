@@ -1,0 +1,6 @@
+METHODS:
+Semelhantes a funções mas estão associados ao conceito de objeto -> OOP
+
+Funcionam em conjunto com outro código
+    Esses conjuntos formam classes
+
