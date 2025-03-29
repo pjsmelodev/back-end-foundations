@@ -39,3 +39,46 @@ int age
 age >= 18
 canDrive
 
+PRACTICE QUIZ:
+Imagine you are designing a banking application. Which approach ensures the program is modular and easier to maintain by combining related tasks like checking balances and processing withdrawals?
+    Use functions and methods to modularize tasks and interactions
+
+You are tasked with building an inventory system. What is the most efficient way to handle repetitive tasks, such as calculating total stock value?
+    Use a function or method to encapsulate the calculation logic and resuse it as needed
+
+You are tasked with creating a comprehensive library management system. How should you integrate user authentication, book checkouts, and returns into the program?
+    Plan the program flow by defining how functions and methods will interact
+
+In a library management system, which programming principle ensures each function or method is responsible for only one task, such as checking out books or adding new titles?
+    Single Responsability Principle
+
+GRADED QUIZ:
+Why would a developer create a function to validate user input in a web application?
+    To centralize the validation logic, making it reusable across multiple input fields
+
+What happens when a method in C# has a return type specified?
+    The method must return a value of the specified type, ensuring the output aligns with the method's definition
+
+A developer uses the function calculateArea(length, width) to process inputs. What will happen if they call calculateArea(10)?
+    The function will throw an erros due to a missing argument for width
+
+A developer creates a method that returns a calculated tax amount. How can the return value improve program efficiency?
+    The return value allows the program to reuse the tax calculation result in other operations without recalculating
+
+A developer uses parameters in a function. How do parameters enhance code reusability?
+    They allow functions to process different inputs without changing the funcion's code
+
+What is the result of calling PrintMessage() on a method defined as public void PrintMessage(string message)?
+    The call will fail because the method requires a string parameter to execute
+
+Why are methods with return values preferred for complex calculations?
+    They allow the calculated result to be resused in other parts of the program
+
+A developer creates a method to process an order and pass customer details as parameters. Why are parameters important for this method?
+    Parameters allow the method to accept different customer details without altering the method's code
+
+You are developing a library management system. Why would you create a function to calculate overdue fines based on the number of days late?
+    To allow the calculation logic to be reused whenever fines need to be determined for different users
+
+What is the advantage of planning a program by dividing it into smaller functions or methods?
+    It makes the program easier to debug, test, and update, as each function handles a specific task
