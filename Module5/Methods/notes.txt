@@ -28,3 +28,7 @@ private void OnPlayerMove(object sender, EventArgs e) {
         Console.WriteLine("Player moved to position: " + e.Position);
     }
 }
+
+VIDEO QUIZ:
+Why is manipulating data a common use case for methods?  
+    It allows for efficient processing and modification of data structures, such as sorting arrays or updating records
