@@ -4,3 +4,6 @@ When calling a method in a program, which of the following statements is true?
 
 Which of the following statements best describes the purpose of a method's return value?
     A return value is how a method outputs its result, which can be used elsewhere in the program
+
+Which of the following is a correct call to the CalculateSum method that takes two integer parameters? 
+    CalculateSum(5, 10);
