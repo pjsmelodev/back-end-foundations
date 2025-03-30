@@ -5,3 +5,5 @@ In this example, a method is used to determine whether a student has passed or f
 When challenged with a complex problem like managing inventory in a grocery store, what is the first step to make the problem more manageable?
     Break down the problem into smaller, manageable tasks
 
+Which of the following best practices improves code clarity and maintainability?
+    Use descriptive variable names and apply the single responsability principle
