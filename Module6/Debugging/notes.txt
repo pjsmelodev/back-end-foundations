@@ -6,3 +6,6 @@ Runtime
 VIDEO QUESTIONS:
 What is the primary purpose of debugging in programming?
     To identify and resolve errors in the code
+
+Which debugging tool would you use to track the value of specific variables while your code is running?
+    Watch
