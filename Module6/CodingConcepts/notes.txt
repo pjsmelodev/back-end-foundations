@@ -1,3 +1,7 @@
 VIDEO QUESTIONS:
 In this example, a method is used to determine whether a student has passed or failed based on their score.  If the score is 60 or above, it returns "Pass"; otherwise, it returns "Fail." Which programming concept is used to make decisions based on conditions? 
     Control Structures
+
+When challenged with a complex problem like managing inventory in a grocery store, what is the first step to make the problem more manageable?
+    Break down the problem into smaller, manageable tasks
+
