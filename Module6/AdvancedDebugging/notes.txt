@@ -1,0 +1,4 @@
+VIDEO QUESTIONS:
+Microsoft Copilot helps developers by generating code, providing real-time suggestions, detecting errors, and optimizing code.
+    True
+
