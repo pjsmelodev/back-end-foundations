@@ -1,0 +1,8 @@
+COMMON ERRORS:
+Logic
+Syntax
+Runtime
+
+VIDEO QUESTIONS:
+What is the primary purpose of debugging in programming?
+    To identify and resolve errors in the code
