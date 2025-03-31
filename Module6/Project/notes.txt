@@ -1,3 +1,6 @@
 VIDEO QUESTIONS:
 What is the primary purpose of setting project objectives during the planning phase?
     To provide a clear direction and measurable goals for the project
+
+ What is the purpose of the TaskManager class in the project?  
+    To store all the logic for managing tasks
